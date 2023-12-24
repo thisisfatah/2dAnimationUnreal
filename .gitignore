@@ -1,12 +1,6 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-### FMOD Unreal Integration ###
-# Ignore the Cache-file since it is updated locally either way
-*.br
-*.fobj
-Content/FMOD/.cache/*
-
 # Compiled Object files
 *.slo
 *.lo
@@ -78,4 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Content/FMOD/Metadata/Event/{a06b1461-8348-4dee-bb7c-a3e18e5e14fc}.xml
